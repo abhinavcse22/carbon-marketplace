@@ -94,10 +94,6 @@ We welcome contributions to the Carbon Credit Marketplace! Please follow these s
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 Join us in our mission to create a more sustainable future through efficient carbon credit trading!
